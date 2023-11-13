@@ -4,7 +4,7 @@
 
 ❤️ Apaixonada por tecnologia e design. 
 
-🎨 Estudando Front-End.
+
 
 #
 
