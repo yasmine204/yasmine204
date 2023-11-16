@@ -29,7 +29,7 @@
    <img align="center" alt="Yas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<img align="right" alt="Yas-gif" width="300" src="https://i.pinimg.com/originals/28/28/2a/28282a80b30a0fd14089e0c6cafc0e2a.gif"/>
+<img align="right" alt="Yas-gif" width="300" src="https://pa1.aminoapps.com/7141/bb38009e40e8d13093143be42b9e34c42f0225b9r1-480-270_00.gif"/>
 
 #
 
