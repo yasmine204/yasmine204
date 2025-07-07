@@ -1,6 +1,6 @@
 ## Hey, meu nome é Yasmine! 👋🏻
 
-📖 Estudante do 7° período de Engenharia de Computação.
+📖 Estudante do 10° período de Engenharia de Computação.
 
 ❤️ Apaixonada por tecnologia e design. 
 
