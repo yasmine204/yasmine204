@@ -4,7 +4,7 @@
 
 Me formei recentemente em Engenharia de Computação e estou focada em aprimorar minhas habilidades em desenvolvimento full-stack. Gosto de tudo que envolve design gráfico, tecnologia e criatividade, e estou sempre buscando aprender algo novo. Também sou fã de animes, que acabam inspirando bastante o meu lado criativo.
 
-<p align="right">
+<p align="center">
   <img 
     alt="Yas-gif" 
     width="300" 
@@ -12,7 +12,7 @@ Me formei recentemente em Engenharia de Computação e estou focada em aprimorar
 />
 </p>
 
-<p align="right">
+<p align="center">
     <a href="https://www.linkedin.com/in/yasmine-silva-ferreira-0a304720a/" target="_blank">
         <img 
             alt="LinkedIn" 
