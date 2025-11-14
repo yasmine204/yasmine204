@@ -1,8 +1,8 @@
 # Yasmine Silva
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Full Stack`**
 
-Me formei recentemente em Engenharia de Computação e estou focada em aprimorar minhas habilidades em desenvolvimento full-stack. Gosto de tudo que envolve design gráfico, tecnologia e criatividade, e estou sempre buscando aprender algo novo. Também sou fã de animes, que acabam inspirando bastante o meu lado criativo.
+Me formei recentemente em Engenharia de Computação e estou focada em aprimorar minhas habilidades em desenvolvimento Full Stack. Gosto de tudo que envolve design gráfico, tecnologia e criatividade, e estou sempre buscando aprender algo novo. Também sou fã de animes, que acabam inspirando bastante o meu lado criativo.
 
 <p align="center">
   <img 
